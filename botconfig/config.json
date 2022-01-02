@@ -1,10 +1,10 @@
 {
-  "token" : "YOUR_BOT_TOKEN",
-   "prefix": "YOUR_BOT_PREFIX",
+  "token" : "OTI3MjEwODgzNjkwNjg4NTQy.YdG6bQ.G4uDJCFX4xH4GQWgpNRzjfdvOqk",
+   "prefix": "?",
    "ownerIDS": [
-      "OWNER_IDS"
+      "OWNER_IDS"773529409697087518
    ],
-   "clientsettings": {
+   "clientsettings": {927210883690688542
       "nodes": [
          {
             "host": "lava.link",
